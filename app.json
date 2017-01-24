@@ -1,0 +1,43 @@
+{
+	"pages" : [
+		"pages/index/index",
+	"pages/page/index",
+	"pages/form/index",
+	"pages/error/index",
+	"pages/logs/logs"
+	],
+	"window" : {
+		"navigationBarBackgroundColor": "#479de6",
+	    "navigationBarTextStyle": "white",
+	    "navigationBarTitleText": "kkk",
+	    "backgroundColor": "#f8f8f8",
+	    "backgroundTextStyle": "dark",
+	    "enablePullDownRefresh":"true"
+	},
+	 "tabBar": {
+	    "color": "#999999",
+	    "selectedColor": "#479de6",
+	    "borderStyle": "white",
+	    "backgroundColor": "#fff",
+	    "list": [
+	    {
+	      "pagePath": "pages/index/index",
+	      "iconPath": "assets/images/icon_tabbar.png",
+	      "selectedIconPath": "assets/images/logo.png",
+	      "text": "首页"
+	    },
+	    {
+	      "pagePath": "pages/page/index",
+	      "iconPath": "assets/images/icon_tabbar.png",
+	      "selectedIconPath": "assets/images/logo.png",
+	      "text": "内页"
+	    },
+	    {
+	      "pagePath": "pages/form/index",
+	      "iconPath": "assets/images/icon_tabbar.png",
+	      "selectedIconPath": "assets/images/logo.png",
+	      "text": "表单页"
+	    }
+	    ]
+	 }
+}

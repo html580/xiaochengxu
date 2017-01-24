@@ -1,0 +1,13 @@
+<view class="container"> 
+ <view class="weui-msg"> 
+  <icon type="success" size="86"></icon> 
+  <view class="weui-article__h2">
+    操作成功 
+  </view> 
+  <view>
+    内容详情，可根据实际需要安排 
+  </view> 
+  <button class="weui-btn" type="primary">推荐操作</button> 
+  <button class="weui-btn" type="default">辅助操作</button> 
+ </view> 
+</view>
