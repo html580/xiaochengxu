@@ -5,3 +5,13 @@ HTML我帮您打造微信小程序web可视化开发者工具可以生成整套�
 ![](http://static.html580.com/upload/image/2017/01/xiaochengxu-weui.jpg)
 
 ![](http://static.html580.com/upload/image/2017/01/xiaochengxu.jpg)
+
+![](http://static.html580.com/upload/image/2017/01/form-w.jpg)
+
+![](http://static.html580.com/upload/image/2017/01/form.jpg)
+
+![](http://static.html580.com/upload/image/2017/01/page.jpg)
+
+![](http://static.html580.com/upload/image/2017/01/page-weui.jpg)
+
+![](http://static.html580.com/upload/image/2017/01/tab.jpg)
